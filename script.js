@@ -7,6 +7,8 @@
 // tambien, en caso de meter mas skin y verificarlas por el nombre nomas, eso se podria con un switch case
 // y asi listo
 
+// esto se soluciona facil con un bucle para que detecte que tipo de skin es y asi es mas facil
+
 
 // boton de cambio de skin
 const calculadora = document.querySelector('.calculadora');
